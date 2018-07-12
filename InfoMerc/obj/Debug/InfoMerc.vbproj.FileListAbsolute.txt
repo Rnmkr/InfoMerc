@@ -1,0 +1,37 @@
+C:\Users\Rnmkr\Desktop\InfoMerc\InfoMerc\obj\Debug\InfoMerc.vbprojResolveAssemblyReference.cache
+C:\Users\Rnmkr\Desktop\InfoMerc\InfoMerc\obj\Debug\InfoMerc.vbproj.ResolveComReference.cache
+C:\Users\Rnmkr\Desktop\InfoMerc\InfoMerc\obj\Debug\InfoMerc.frmMain.resources
+C:\Users\Rnmkr\Desktop\InfoMerc\InfoMerc\obj\Debug\InfoMerc.Resources.resources
+C:\Users\Rnmkr\Desktop\InfoMerc\InfoMerc\obj\Debug\InfoMerc.vbproj.GenerateResource.Cache
+C:\Users\Rnmkr\Desktop\InfoMerc\InfoMerc\obj\Debug\InfoMerc.xml
+C:\Users\Rnmkr\Desktop\InfoMerc\InfoMerc\bin\Debug\InfoMerc.exe
+C:\Users\Rnmkr\Desktop\InfoMerc\InfoMerc\bin\Debug\InfoMerc.pdb
+C:\Users\Rnmkr\Desktop\InfoMerc\InfoMerc\bin\Debug\InfoMerc.xml
+C:\Users\Rnmkr\Desktop\InfoMerc\InfoMerc\obj\Debug\InfoMerc.exe
+C:\Users\Rnmkr\Desktop\InfoMerc\InfoMerc\obj\Debug\InfoMerc.pdb
+C:\Users\Rnmkr\Desktop\InfoMerc - copia\InfoMerc\obj\Debug\InfoMerc.vbprojResolveAssemblyReference.cache
+C:\Users\Rnmkr\Desktop\InfoMerc - copia\InfoMerc\obj\Debug\InfoMerc.vbproj.ResolveComReference.cache
+C:\Users\Rnmkr\Desktop\InfoMerc - copia\InfoMerc\obj\Debug\InfoMerc.frmMain.resources
+C:\Users\Rnmkr\Desktop\InfoMerc - copia\InfoMerc\obj\Debug\InfoMerc.Resources.resources
+C:\Users\Rnmkr\Desktop\InfoMerc - copia\InfoMerc\obj\Debug\InfoMerc.vbproj.GenerateResource.Cache
+C:\Users\Rnmkr\Desktop\InfoMerc - copia\InfoMerc\obj\Debug\InfoMerc.exe
+C:\Users\Rnmkr\Desktop\InfoMerc - copia\InfoMerc\obj\Debug\InfoMerc.xml
+C:\Users\Rnmkr\Desktop\InfoMerc - copia\InfoMerc\obj\Debug\InfoMerc.pdb
+C:\Users\Rnmkr\Desktop\InfoMerc - copia\InfoMerc\bin\Debug\InfoMerc.exe
+C:\Users\Rnmkr\Desktop\InfoMerc - copia\InfoMerc\bin\Debug\InfoMerc.pdb
+C:\Users\Rnmkr\Desktop\InfoMerc - copia\InfoMerc\bin\Debug\InfoMerc.xml
+C:\Users\Rnmkr\Desktop\InfoMerc1\InfoMerc\obj\Debug\InfoMerc.vbproj.ResolveComReference.cache
+C:\Users\Rnmkr\Desktop\InfoMerc1\InfoMerc\obj\Debug\InfoMerc.exe
+C:\Users\Rnmkr\Desktop\InfoMerc1\InfoMerc\obj\Debug\InfoMerc.xml
+C:\Users\Rnmkr\Desktop\InfoMerc1\InfoMerc\obj\Debug\InfoMerc.pdb
+D:\VSprojects\InfoMerc\InfoMerc\bin\Debug\InfoMerc.exe
+D:\VSprojects\InfoMerc\InfoMerc\bin\Debug\InfoMerc.pdb
+D:\VSprojects\InfoMerc\InfoMerc\bin\Debug\InfoMerc.xml
+D:\VSprojects\InfoMerc\InfoMerc\obj\Debug\InfoMerc.vbprojResolveAssemblyReference.cache
+D:\VSprojects\InfoMerc\InfoMerc\obj\Debug\InfoMerc.vbproj.ResolveComReference.cache
+D:\VSprojects\InfoMerc\InfoMerc\obj\Debug\InfoMerc.frmMain.resources
+D:\VSprojects\InfoMerc\InfoMerc\obj\Debug\InfoMerc.Resources.resources
+D:\VSprojects\InfoMerc\InfoMerc\obj\Debug\InfoMerc.vbproj.GenerateResource.Cache
+D:\VSprojects\InfoMerc\InfoMerc\obj\Debug\InfoMerc.exe
+D:\VSprojects\InfoMerc\InfoMerc\obj\Debug\InfoMerc.xml
+D:\VSprojects\InfoMerc\InfoMerc\obj\Debug\InfoMerc.pdb

@@ -1,0 +1,11 @@
+C:\Users\Rnmkr\Desktop\InfoMerc\InfoMerc\obj\Release\InfoMerc.vbproj.ResolveComReference.cache
+C:\Users\Rnmkr\Desktop\InfoMerc\InfoMerc\bin\Release\InfoMerc.exe
+C:\Users\Rnmkr\Desktop\InfoMerc\InfoMerc\bin\Release\InfoMerc.pdb
+C:\Users\Rnmkr\Desktop\InfoMerc\InfoMerc\bin\Release\InfoMerc.xml
+C:\Users\Rnmkr\Desktop\InfoMerc\InfoMerc\obj\Release\InfoMerc.frmMain.resources
+C:\Users\Rnmkr\Desktop\InfoMerc\InfoMerc\obj\Release\InfoMerc.Resources.resources
+C:\Users\Rnmkr\Desktop\InfoMerc\InfoMerc\obj\Release\InfoMerc.vbproj.GenerateResource.Cache
+C:\Users\Rnmkr\Desktop\InfoMerc\InfoMerc\obj\Release\InfoMerc.exe
+C:\Users\Rnmkr\Desktop\InfoMerc\InfoMerc\obj\Release\InfoMerc.xml
+C:\Users\Rnmkr\Desktop\InfoMerc\InfoMerc\obj\Release\InfoMerc.pdb
+C:\Users\Rnmkr\Desktop\InfoMerc\InfoMerc\obj\Release\InfoMerc.vbprojResolveAssemblyReference.cache
